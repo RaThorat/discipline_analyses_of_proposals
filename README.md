@@ -30,8 +30,6 @@ The code finds the discipline for each monodiscipline proposal and for each intr
 The code uses the openpyxl.utils.dataframe.dataframe_to_rows() function to write a summary of the analysis for monodiscipline, intradomain multidiscipline, and interdomain multidiscipline proposals to subsequent excel sheets. It also writes co-occurrence matrices and files for VOS viewer for submitted and successful proposals, and saves the excel workbook as discipline_analysis.xlsx.
 
 ## References
-https://github.com/RaThorat/discipline_analyses_of_proposals
-
 https://stackoverflow.com/questions/74335925/is-there-a-better-way-to-summerize-a-table-information-instead-of-using-iloc-and
 
 
